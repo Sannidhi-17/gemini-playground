@@ -16,5 +16,5 @@ It contains example scripts for text generation, code generation, summarization,
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/gemini-playground.git
+git clone https://github.com/Sannidhi-17/gemini-playground.git
 cd gemini-playground
